@@ -24,16 +24,18 @@
 
 ⭐ **Valoración:** Obligatorio dejar una nota sobre 10 y un comentario el mismo día de la escucha y respetando el orden. Da igual la precisión o extensión.
 
+📖 **Historial:** Si el tiempo entre valoraciones es menor a la duración del disco, es obligatorio pasar por el grupo una captura de pantalla del historial de reproducción.
+
 🆕 **¿Qué cuenta como "Disco Nuevo"?:**
 * Solo se considera nuevo si conoces menos del 50% de las canciones.
 * Si reconoces el 50% o más de las canciones, se considera disco ya escuchado.
 
 🎬🎮 **Bandas Sonoras (BSO):** 
 * Si has jugado/visto la obra asociada y reconoces el 25% o más de las canciones, cuenta como ya escuchado.
-* Si tienes el 25% o más de las canciones en tu biblioteca, cuenta como ya escuchado.
+* Si no has visto/jugado la obra asociada, se considera disco nuevo según el criterio general.
 
-💿💿 **Discos dobles:**
-* Se podrán contabilizar como escuchas distintas cada una de las partes de un disco doble, siempre y cuando se hayan lanzado previamente como discos separados en cualquier plataforma.
+💿💿 **Discos múltiples:**
+* Se podrán contabilizar como escuchas distintas cada una de las partes de un disco múltiple, siempre y cuando hayan sido lanzadas previamente como discos separados en cualquier plataforma.
 
 🧮 **Contabilización:**
 En la Modalidad 1, se distinguen dos tipos de discos:
