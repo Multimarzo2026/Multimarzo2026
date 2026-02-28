@@ -13,7 +13,7 @@
 ### 📜 Normas Base
 
 ✅ **Formatos válidos:**
-* Álbumes, EPs, Sencillos y Recopilatorios oficiales
+* Álbumes, EPs, Sencillos y Recopilatorios oficiales.
 * Vídeos del disco original completo.
 
 ❌ **Formatos no válidos:**
