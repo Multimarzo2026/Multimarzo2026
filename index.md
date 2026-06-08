@@ -28,6 +28,8 @@
 
 ‼️ **Monofonía**: No está permitido escuchar más de un disco a la vez.
 
+👀 **Vigilia**: Es obligatorio permanecer en estado de vigilia durante la escucha del disco.
+
 🆕 **¿Qué cuenta como "Disco Nuevo"?:**
 * Solo se considera nuevo si reconoces menos del 50% de las canciones.
 * Si reconoces el 50% o más de las canciones, se considera disco ya escuchado.
@@ -40,8 +42,8 @@
 * El reconocimiento de una canción queda adscrito al criterio subjetivo del participante, entendiendo recordar haber escuchado la canción previamente como forma más común de este criterio.
 
 💿💿 **Discos múltiples:**
-* En un disco múltiple, cada parte podrá contabilizarse como escucha independiente únicamente si ha sido publicada previamente como disco independiente en cualquier plataforma y cumple todas las Normas Base.
-* Si y sólo si una parte no existe como disco independiente y cumple todas las Normas Base, también podrá contabilizarse.
+* En un disco múltiple, cada parte podrá contabilizarse como disco independiente únicamente si ha sido publicada previamente como disco independiente en cualquier plataforma y cumple todas las Normas Base.
+* Si y sólo si una parte no existe como disco independiente y cumple todas las Normas Base, también podrá contabilizarse como disco independiente.
 
 🧮 **Contabilización:**
 En la Modalidad 1, se distinguen dos tipos de discos:
