@@ -30,6 +30,8 @@
 
 👀 **Vigilia**: Es obligatorio permanecer en estado de vigilia durante la escucha del disco.
 
+🎛️ **Original**: No está permitido alterar las canciones ni su reproducción (velocidad, pitch, tempo u otras modificaciones).
+
 🆕 **¿Qué cuenta como "Disco Nuevo"?:**
 * Solo se considera nuevo si reconoces menos del 50% de las canciones.
 * Si reconoces el 50% o más de las canciones, se considera disco ya escuchado.
